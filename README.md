@@ -1,2 +1,2 @@
 # primer-repositorio-curso-phyton
-Aca van mis trabjo
+Aca van mis trabajo de Python inicial
